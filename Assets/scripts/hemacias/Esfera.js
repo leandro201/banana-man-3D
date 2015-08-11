@@ -5,6 +5,6 @@ function Start () {
 }
 
 function Update () {
-	transform.Translate(0,0,0.05);
+	transform.Translate(0,0,0.06);
 	
 }

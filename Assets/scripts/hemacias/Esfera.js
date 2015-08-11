@@ -1,4 +1,6 @@
-﻿#pragma strict
+#pragma strict
+
+\\ teste
 
 function Start () {
 	

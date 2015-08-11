@@ -1,7 +1,5 @@
 ﻿#pragma strict
 
-var int: teste;
-
 function Start () {
 	
 }

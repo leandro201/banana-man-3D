@@ -1,6 +1,6 @@
 #pragma strict
 
-\\ teste
+// teste
 
 function Start () {
 	
